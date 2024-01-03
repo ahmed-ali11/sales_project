@@ -4,7 +4,7 @@ SELECT * FROM order_data LIMIT 10;
 
 DESCRIBE order_data;
 
--- Changing the data type of "order_date" & "ship_date" columns from VARCHAR to DATE.
+## Changing the data type of "order_date" & "ship_date" columns from VARCHAR to DATE.
 UPDATE order_data
     SET order_date = CASE 
     WHEN order_date LIKE '%/%' THEN str_to_date(order_date, '%m/%d/%Y')
