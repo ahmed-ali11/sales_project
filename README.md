@@ -13,6 +13,7 @@
 ### Generic Questions:
 1. How many unique cities does the data have?
 2. How many unique categories does the data have?
+   
 ### Product:
 1. How many unique sub-category does the data have?
 2. What is the highest-selling category?
@@ -24,10 +25,10 @@
 
 
 ### Sales
-1. Number of sales made in each time of the day per weekday
-2. Which of the customer types brings the most revenue?
-3. Which city has the largest tax percent/ VAT (Value Added Tax)?
-4. Which customer type pays the most in VAT?
+1. What is the number of orders made per month, and which month has the highest number of orders?
+2. Which of the ship mode brings in the most revenue?
+3. Which Region has the lowest sales?
+4. What is the average pay for the customers in California, New York, and Texas?
 
 ### Customer
 1. How many unique customer types does the data have?
