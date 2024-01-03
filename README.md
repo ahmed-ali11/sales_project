@@ -32,16 +32,9 @@
 
 ### Customer
 1. How many unique customer types does the data have?
-2. How many unique payment methods does the data have?
-3. What is the most common customer type?
-4. Which customer type buys the most?
-5. What is the gender of most of the customers?
-6. What is the gender distribution per branch?
-7. Which time of the day do customers give most ratings?
-8. Which time of the day do customers give most ratings per branch?
-9. Which day fo the week has the best avg ratings?
-10. Which day of the week has the best average ratings per branch?
+2. What segment of the customer has the highest count of orders?
 
+   
 ## Findings:
 - Although some departments has higher sales, on average others can be best. It shows us, some departments has effect on sales on some seasons like Thanksgiving.
 - It is same for stores, means that some areas has higher seasonal sales.
