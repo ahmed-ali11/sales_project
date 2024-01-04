@@ -53,3 +53,5 @@
 - Markdown effects on model will be improved according to department sales.
 - Different models can be build for special stores or departments.
 - Market basket analysis can be done to find higher demand items of departments.
+
+## In this project, I used Looker Studio to design an interactive dashboard. [_Let's take a look_.](https://lookerstudio.google.com/u/0/reporting/20ae0877-d174-41f7-9063-fa156f558106/page/wAYmD)
