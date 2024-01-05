@@ -1,4 +1,7 @@
+
 # sales_project
+![Capture](https://github.com/ahmed-ali11/sales_project/assets/153124099/a94c8d0e-f297-44a9-96de-e3f149f14a88)
+
 ## About
 
 #### This project aims to explore the Sales data to understand top performing products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from [Kaggle Sales Report](https://www.kaggle.com/datasets/ahmedali209/sales-dataset)
