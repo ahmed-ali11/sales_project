@@ -7,7 +7,7 @@
 #### This project aims to explore the Sales data to understand top performing products, sales trend of of different products, customer behaviour. The aims is to study how sales strategies can be improved and optimized. The dataset was obtained from [Kaggle Sales Report](https://www.kaggle.com/datasets/ahmedali209/sales-dataset)
 
 ## Purpose of This Project
-#### The major aim of thie project is to gain insight into the sales data to understand the different factors that affect sales of the different categories.
+#### The major aim of this project is to gain insight into the sales data to understand the different factors that affect sales of the different categories.
 
 ## About The Data
 #### The dataset was obtained from the [Kaggle](https://www.kaggle.com/datasets/ahmedali209/sales-dataset) This dataset contains sales transactions from a three different categories, respectively Furniture, Office Supplies, Technology. The data contains 2 tables which are cst_data and order_data these tables have 17 columns and 9994 rows.
