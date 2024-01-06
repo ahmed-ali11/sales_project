@@ -44,14 +44,4 @@
 - The Office Suppliers category was the most popular category among the other two categories by ($29.21M).
 - In our ship modes we have (Same Day), as it's this lowest mode in sales, it needs some work.
 
-
-
-## Future Improvements:
-- Data will be made more stationary with different techniques.
-- More detailed feature engineering and feature selection will be done.
-- More data can be found to observe holiday effects on sales and different holidays will be added like Easter, Halloween and Come Back to School times.
-- Markdown effects on model will be improved according to department sales.
-- Different models can be build for special stores or departments.
-- Market basket analysis can be done to find higher demand items of departments.
-
 ### In this project, I used Looker Studio to design an interactive dashboard. [_Let's take a look_.](https://lookerstudio.google.com/u/0/reporting/20ae0877-d174-41f7-9063-fa156f558106/page/wAYmD)
