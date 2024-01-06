@@ -1,6 +1,6 @@
 
 # sales_project
-![Capture](https://github.com/ahmed-ali11/sales_project/assets/153124099/a94c8d0e-f297-44a9-96de-e3f149f14a88)
+![Capture](https://github.com/ahmed-ali11/sales_project/assets/153124099/0508566d-b029-43b1-b28f-befeac17a206)
 
 ## About
 
