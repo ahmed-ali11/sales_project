@@ -42,7 +42,10 @@
 - The region that has the highest sales comes from the West.
 - 2017 was a remarkable year as we achieved the highest sales number.
 - The Office Suppliers category was the most popular category among the other two categories by ($29.21M).
-- 
+- In our ship modes we have (Same Day), as it's this lowest mode in sales, it needs some work.
+
+
+
 ## Future Improvements:
 - Data will be made more stationary with different techniques.
 - More detailed feature engineering and feature selection will be done.
